@@ -1,0 +1,7 @@
+# @format
+
+name: 'json'
+description: 'json'
+runs:
+  using: 'node16'
+  main: 'index.mjs'

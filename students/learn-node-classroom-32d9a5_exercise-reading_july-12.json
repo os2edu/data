@@ -1,0 +1,169 @@
+{
+  "name": "july-12",
+  "avatar": "https://avatars.githubusercontent.com/u/920487?v=4",
+  "studentInfo": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/920487?v=4"
+  },
+  "repo": {
+    "id": 514519427,
+    "name": "exercise-reading-july-12",
+    "owner": {
+      "login": "learn-node",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109397453?v=4",
+      "html_url": "https://github.com/learn-node"
+    },
+    "private": false,
+    "html_url": "https://github.com/learn-node/exercise-reading-july-12",
+    "pushed_at": "2022-07-16T13:34:31Z",
+    "created_at": "2022-07-16T08:16:43Z",
+    "updated_at": "2022-07-16T08:16:47Z"
+  },
+  "repoURL": "https://github.com/learn-node/exercise-reading-july-12",
+  "commits": [
+    {
+      "html_url": "https://github.com/learn-node/exercise-reading-july-12/commit/aca0af6ee7293832b76018291a0ed7193f96ac9f",
+      "sha": "aca0af6ee7293832b76018291a0ed7193f96ac9f",
+      "commit": {
+        "author": {
+          "name": "古法",
+          "email": "gufa@qunhemail.com",
+          "date": "2022-07-16T13:34:25Z"
+        },
+        "message": "make pass"
+      }
+    },
+    {
+      "html_url": "https://github.com/learn-node/exercise-reading-july-12/commit/bb6cfdbd6aa160137c58928e3bac15c30832e845",
+      "sha": "bb6cfdbd6aa160137c58928e3bac15c30832e845",
+      "commit": {
+        "author": {
+          "name": "古法",
+          "email": "gufa@qunhemail.com",
+          "date": "2022-07-16T08:25:26Z"
+        },
+        "message": "fdasfd"
+      }
+    },
+    {
+      "html_url": "https://github.com/learn-node/exercise-reading-july-12/commit/75c44549e335fa63adc54126da0653ee49065980",
+      "sha": "75c44549e335fa63adc54126da0653ee49065980",
+      "commit": {
+        "author": {
+          "name": "古法",
+          "email": "gufa@qunhemail.com",
+          "date": "2022-07-16T08:22:27Z"
+        },
+        "message": "fix: test"
+      }
+    },
+    {
+      "html_url": "https://github.com/learn-node/exercise-reading-july-12/commit/b02f86bfa3ad1d5f8fa686087d1635bbb2eeebcd",
+      "sha": "b02f86bfa3ad1d5f8fa686087d1635bbb2eeebcd",
+      "commit": {
+        "author": {
+          "name": "古法",
+          "email": "gufa@qunhemail.com",
+          "date": "2022-07-16T08:20:01Z"
+        },
+        "message": "fix: fds"
+      }
+    }
+  ],
+  "runs": [
+    {
+      "id": 2682026134,
+      "name": "GitHub Classroom Workflow",
+      "event": "push",
+      "conclusion": "success",
+      "status": "completed",
+      "check_suite_id": 7385590682,
+      "head_branch": "master",
+      "html_url": "https://github.com/learn-node/exercise-reading-july-12/actions/runs/2682026134",
+      "run_started_at": "2022-07-16T13:34:33Z",
+      "created_at": "2022-07-16T13:34:33Z"
+    },
+    {
+      "id": 2681230552,
+      "name": "GitHub Classroom Workflow",
+      "event": "push",
+      "conclusion": "failure",
+      "status": "completed",
+      "check_suite_id": 7384166659,
+      "head_branch": "master",
+      "html_url": "https://github.com/learn-node/exercise-reading-july-12/actions/runs/2681230552",
+      "run_started_at": "2022-07-16T08:25:39Z",
+      "created_at": "2022-07-16T08:25:39Z"
+    },
+    {
+      "id": 2681222562,
+      "name": "GitHub Classroom Workflow",
+      "event": "push",
+      "conclusion": "success",
+      "status": "completed",
+      "check_suite_id": 7384152637,
+      "head_branch": "master",
+      "html_url": "https://github.com/learn-node/exercise-reading-july-12/actions/runs/2681222562",
+      "run_started_at": "2022-07-16T08:22:35Z",
+      "created_at": "2022-07-16T08:22:35Z"
+    }
+  ],
+  "latestRunJobs": [
+    {
+      "id": 7370862147,
+      "name": "Autograding",
+      "html_url": "https://github.com/learn-node/exercise-reading-july-12/runs/7370862147?check_suite_focus=true",
+      "conclusion": "success",
+      "status": "completed",
+      "completed_at": "2022-07-16T13:35:17Z",
+      "started_at": "2022-07-16T13:34:40Z",
+      "steps": [
+        {
+          "name": "Set up job",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 1,
+          "started_at": "2022-07-16T21:34:40.000+08:00",
+          "completed_at": "2022-07-16T21:34:41.000+08:00"
+        },
+        {
+          "name": "Run actions/checkout@v2",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 2,
+          "started_at": "2022-07-16T21:34:41.000+08:00",
+          "completed_at": "2022-07-16T21:34:42.000+08:00"
+        },
+        {
+          "name": "Run education/autograding@v1",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 3,
+          "started_at": "2022-07-16T21:34:43.000+08:00",
+          "completed_at": "2022-07-16T21:35:15.000+08:00"
+        },
+        {
+          "name": "Post Run actions/checkout@v2",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 6,
+          "started_at": "2022-07-16T21:35:15.000+08:00",
+          "completed_at": "2022-07-16T21:35:15.000+08:00"
+        },
+        {
+          "name": "Complete job",
+          "status": "completed",
+          "conclusion": "success",
+          "number": 7,
+          "started_at": "2022-07-16T21:35:15.000+08:00",
+          "completed_at": "2022-07-16T21:35:15.000+08:00"
+        }
+      ]
+    }
+  ],
+  "isSuccess": true,
+  "languages": [],
+  "executeTime": 37,
+  "submission_timestamp": "2022-07-16T13:34:25Z",
+  "points_awarded": "100",
+  "points_available": "100"
+}
