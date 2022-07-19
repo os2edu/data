@@ -1,0 +1,34 @@
+{
+  "classrooms": [
+    {
+      "title": "forth-grade",
+      "id": "109397453-forth-grade",
+      "desc": "",
+      "assignments": [
+        {
+          "id": "exercise-reading",
+          "title": "exercise-reading",
+          "student_repositories": []
+        },
+        {
+          "id": "math-assignment-one",
+          "title": "math-assignment-one",
+          "student_repositories": []
+        }
+      ]
+    },
+    {
+      "title": "learn-node-classroom-32d9a5",
+      "id": "109397453-learn-node-classroom-32d9a5",
+      "desc": "",
+      "assignments": [
+        {
+          "id": "exercise-reading",
+          "title": "exercise-reading",
+          "student_repositories": []
+        }
+      ]
+    }
+  ],
+  "latest_updated_at": "2022-07-17T13:41:59.910Z"
+}
