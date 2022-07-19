@@ -33,6 +33,6 @@ classroomJson.classrooms.forEach(classroom => {
         }
       })
     }
-
   })
 })
+
